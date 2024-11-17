@@ -131,19 +131,7 @@ counting of visitors to this page in this section started from June 12, 2022
 ![](https://count.getloli.com/get/@idimetrix.github.readme)
 </br>
 
-[MIT](LICENSE)
-
 ---
-
-## _If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use._
-
-Would you ike to meet me?
-
-If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
-
----
-
-## _I use an automatic subscription control system. Thus, everyone who subscribes to me, I will subscribe to those and I will respond, and vice versa, I will remove all those who unsubscribe from me from among those who should be followed._
 
 <p align="center">Join our <a href="https://github.com/elevanceit/.github/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Organization">GitHub Organization :octocat:</a> and continue to contribute to our Open Source Software ✨</p>
 <img width="100%" src="./images/line.gif">
@@ -163,58 +151,10 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 </a>
 </p>
 
-```TypeScript
-// Check if the code is functioning correctly
 
-// Let's ensure the code is the epitome of excellence
-if (isCodeWorking) {
-    console.log("✨ Code works! Time to polish it until it shines.");
-    // Perfection is our destination, so onward we go!
-    while (codeQuality < perfection) {
-        codeQuality++; // Increment the code quality score
-        console.log(`Improving... Code quality now at ${codeQuality}.`);
-    }
-    console.log("🏆 Code has reached perfection!");
-}
-
-// The cycle of life: eat, sleep, repeat
-while (alive) {
-    eat();
-    sleep();
-    console.log("Repeat! Because life is a loop. 🍕💤🔁");
-}
-
-// - Dmitry Selikhov
-```
 
 [//]: # "https://www.asciiart.eu/image-to-ascii"
 
 ```
 
-| Repository Activity Trends                                                                                                        | Collaborative Productivity - Last 28 days                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=851265087&image_size=auto" /> | <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=851265087&image_size=auto" /> |
-
-| Repository Performance Stats - Last 28 days                                                                                          | Active Contributors - Last 28 days                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=851265087&image_size=auto" /> | <img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=851265087&limit=100&image_size=auto"/> |
-
-| Star Geographic Distribution                                                                                                                    | Star History                                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=851265087&image_size=auto" /> | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=851265087&image_size=auto" /> |
-
-| Company Affiliation                                                                                                                           | Lines of Code Changes                                                                                                                |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&repo_id=851265087&image_size=auto" /> | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=851265087&image_size=auto" /> |
-
-| Pull Request Size                                                                                                                                   | Pull Request Lifecycle                                                                                                                             |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=851265087&image_size=auto" /> | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=851265087&image_size=auto" /> |
-
-| Currently Working On - Last 28 days                                                                                                                     | Top Active Contributors - Last 28 Days                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" /> | <img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=851265087&image_size=auto" /> |
-
-| Repository Annual Ranking                                                                                                                          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" /> |
+                                  
