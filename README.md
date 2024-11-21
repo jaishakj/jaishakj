@@ -102,9 +102,6 @@ counting of visitors to this page in this section started from June 12, 2022
 
 ---
 
-<p align="center">Join our <a href="https://github.com/elevanceit/.github/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Organization">GitHub Organization :octocat:</a> and continue to contribute to our Open Source Software ✨</p>
-<img width="100%" src="./images/line.gif">
-
 <p align="center"><strong>Connect With Us</strong></p>
 
 <p align="center">
