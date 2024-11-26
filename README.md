@@ -104,16 +104,8 @@ counting of visitors to this page in this section started from June 12, 2022
 
 <p align="center"><strong>Connect With Us</strong></p>
 
-<p align="center">
-<a href="mailto:jaishak1219@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://x.com/Jaishak_offl">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" alt="Twitter">
-</a>
-<a href="https://www.linkedin.com/in/jaishakj/">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://t.me/genzthing">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaishak.offl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaishakj) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jaishak2003) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/inosuke_09) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/jaishak) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jaishak_offl) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@jaishakj) 
 </a>
 </p>
 
