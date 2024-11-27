@@ -30,16 +30,6 @@
 
 ---
 
-### 💡 Fun Facts
-- 👾 Passionate about gaming, especially **Fortnite**.  
-- 📺 Anime enthusiast and a cinephile with a love for *How I Met Your Mother* and *Fullmetal Alchemist: Brotherhood*.  
-- 🕒 Early riser with a well-structured daily routine.  
-- 🧠 INTJ personality and deeply fascinated by **human behavior**.  
-
----
-
-Feel free to connect and collaborate!  
-
 <!--   GitHub stats graph -->
 
 ### 📈 GitHub Activity Graph:
