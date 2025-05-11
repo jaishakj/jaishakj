@@ -4,7 +4,7 @@
 ### About Me
 - 🎓 Aspiring Software Developer with a keen interest in AI and NLP.  
 - 🌟 Dedicated to exploring **Human Nature**, **Science**, and improving **Customer Interaction Solutions** through technology.  
-- 💻 Currently working on exciting projects, including **AI-Powered Call Centre Intelligence** and a **Google Gemini-integrated NLP application**.  
+- 💻 Currently working on exciting projects, including **AI-Powered Tools & Softwares for Automation(Not Disclosable)** and a **Google Gemini-integrated NLP application**.  
 
 ---
 
