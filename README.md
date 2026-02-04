@@ -44,13 +44,6 @@
 
 <!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/idimetrix-->
 
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idimetrix" alt="idimetrix" /></a>
-</p>
 
   
 
