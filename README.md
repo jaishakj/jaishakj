@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./portrait.svg" alt="Jaishak Terminal Banner" width="900">
-</p>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=100&size=25&pause=1000&color=F70000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Jaishak)](https://git.io/typing-svg)
 
