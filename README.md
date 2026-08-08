@@ -29,6 +29,15 @@
 
 <!--   GitHub stats graph -->
 
+### ✈️ Jet Heatmap
+<p align="center">
+<img
+  src="https://raw.githubusercontent.com/jaishakj/jaishakj/main/dist/github-jet.svg"
+  alt="GitHub Jet Heatmap"
+  width="100%"
+/>
+</p>
+
 ### 📈 GitHub Activity Graph:                       
 <!-- dark snake -->
 
