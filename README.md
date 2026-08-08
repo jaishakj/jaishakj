@@ -54,7 +54,41 @@ counting of visitors to this page in this section started from June 12, 2021
 
 <p align="center"><strong>Connect With Us</strong></p>
 
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaishakj) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jaishak2003) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/inosuke_09) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jaishak_offl) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@jaishakj) 
+
+## 🌐 Socials
+
+<p align="left">
+
+<a href="https://linkedin.com/in/jaishakj" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="https://medium.com/@jaishak2003" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://reddit.com/user/inosuke_09" target="_blank">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+</a>
+
+<a href="https://x.com/jaishak_j" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://mastodon.social/@jaishakj" target="_blank">
+  <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white"/>
+</a>
+
+<a href="https://dev.to/jaishak_j" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+</a>
+
+<a href="https://letterboxd.com/Jaishak/" target="_blank">
+  <img src="https://img.shields.io/badge/Letterboxd-202830?style=for-the-badge&logo=letterboxd&logoColor=00E054"/>
+</a>
+
+<a href="https://lemmy.zip/u/Seiichi" target="_blank">
+  <img src="https://img.shields.io/badge/Lemmy-1E88E5?style=for-the-badge&logo=lemmy&logoColor=white"/>
+</a>
+
 </p>
